@@ -1,0 +1,30 @@
+{
+  "name": "frontend-project-lvl1",
+  "version": "1.0.0",
+  "description": "frontend-project for hexlet",
+  "main": "index.js",
+  "bin": {
+    "frontend-project-lvl1": "brain-games.js"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kamynale/frontend-project-lvl1.git"
+  },
+  "keywords": [
+    "hexlet",
+    "js",
+    "project"
+  ],
+  "author": "Alexandr Kamynin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kamynale/frontend-project-lvl1/issues"
+  },
+  "homepage": "https://github.com/Kamynale/frontend-project-lvl1#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
